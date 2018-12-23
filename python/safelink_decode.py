@@ -4,7 +4,7 @@ from urllib.parse import *
 import sys
 
 
-keep_args = ['www.youtube.com']
+keep_args = ['www.youtube.com','library.stevens.edu']
 debug = False
 
 
