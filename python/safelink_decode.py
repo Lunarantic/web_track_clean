@@ -7,7 +7,7 @@ import sys
 keep_args = ['www.youtube.com','library.stevens.edu']
 for_q = [('www.google.com', '/search')]
 red_q =  [('www.youtube.com', '/redirect')]
-debug = True
+debug = False
 
 
 def _check(n, p, fq):
